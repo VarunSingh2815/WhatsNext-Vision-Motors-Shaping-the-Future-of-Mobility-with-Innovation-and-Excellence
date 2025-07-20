@@ -153,7 +153,7 @@ Track bookings and service requests with ease.
 
 ## 🔗 Project Links
 
-- 💻 GitHub Repository: [https://github.com/VarunSingh2815/salesforce-project-skillwallet]
+- 💻 GitHub Repository: [https://github.com/VarunSingh2815/WhatsNext-Vision-Motors-Shaping-the-Future-of-Mobility-with-Innovation-and-Excellence]
 - 🎥 Demo Video: Uploaded the link at the skillwallet Salesforce.
 
 ---
